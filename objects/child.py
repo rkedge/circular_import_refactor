@@ -1,6 +1,6 @@
 from dataclasses import dataclass
 
-from objects.parent import Person
+from objects.person import Person
 
 
 @dataclass(frozen=True)
